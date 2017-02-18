@@ -13,8 +13,8 @@
     },
     "autoload":{
         "psr-4":{
-            "Mrjnamei\\Tpmigration" : "src/Mrjnamei/Tpmigration" ,
-            "Mrjnamei\\Tpmigration\\Lib" : "src/Mrjnamei/Tpmigration/Lib" 
+            "Mrjnamei\\Tpmigration\\" : "src/Mrjnamei/Tpmigration" ,
+            "Mrjnamei\\Tpmigration\\Lib\\" : "src/Mrjnamei/Tpmigration/Lib" 
         }
     }
 }
